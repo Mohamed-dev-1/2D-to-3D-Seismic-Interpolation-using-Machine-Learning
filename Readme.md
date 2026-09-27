@@ -6,7 +6,7 @@ Since subsurface geology varies smoothly and continuously in space, a neural net
 
 **Simply :**
 
-* We have seismic scans of underground rock with gaps between them, and we're building an machine learning model that fills in those gaps, turning a bunch of separate 2D slices into one complete 3D picture of the underground.
+* We have seismic scans of underground rock with gaps between them, and we're building a machine learning model that fills in those gaps, turning a bunch of separate 2D slices into one complete 3D picture of the underground.
 
 ---
 
